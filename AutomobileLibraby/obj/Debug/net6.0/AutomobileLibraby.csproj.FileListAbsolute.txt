@@ -1,0 +1,12 @@
+D:\VisualStudio_SourceCode\FPT_Source C#\AutomobileSolution\AutomobileLibraby\bin\Debug\net6.0\AutomobileLibraby.deps.json
+D:\VisualStudio_SourceCode\FPT_Source C#\AutomobileSolution\AutomobileLibraby\bin\Debug\net6.0\AutomobileLibraby.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\AutomobileSolution\AutomobileLibraby\bin\Debug\net6.0\AutomobileLibraby.pdb
+D:\VisualStudio_SourceCode\FPT_Source C#\AutomobileSolution\AutomobileLibraby\obj\Debug\net6.0\AutomobileLibraby.csproj.AssemblyReference.cache
+D:\VisualStudio_SourceCode\FPT_Source C#\AutomobileSolution\AutomobileLibraby\obj\Debug\net6.0\AutomobileLibraby.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio_SourceCode\FPT_Source C#\AutomobileSolution\AutomobileLibraby\obj\Debug\net6.0\AutomobileLibraby.AssemblyInfoInputs.cache
+D:\VisualStudio_SourceCode\FPT_Source C#\AutomobileSolution\AutomobileLibraby\obj\Debug\net6.0\AutomobileLibraby.AssemblyInfo.cs
+D:\VisualStudio_SourceCode\FPT_Source C#\AutomobileSolution\AutomobileLibraby\obj\Debug\net6.0\AutomobileLibraby.csproj.CoreCompileInputs.cache
+D:\VisualStudio_SourceCode\FPT_Source C#\AutomobileSolution\AutomobileLibraby\obj\Debug\net6.0\AutomobileLibraby.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\AutomobileSolution\AutomobileLibraby\obj\Debug\net6.0\refint\AutomobileLibraby.dll
+D:\VisualStudio_SourceCode\FPT_Source C#\AutomobileSolution\AutomobileLibraby\obj\Debug\net6.0\AutomobileLibraby.pdb
+D:\VisualStudio_SourceCode\FPT_Source C#\AutomobileSolution\AutomobileLibraby\obj\Debug\net6.0\ref\AutomobileLibraby.dll

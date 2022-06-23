@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AutomobileLibraby": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\VisualStudio_SourceCode\\FPT_Source C#\\AutomobileSolution\\CarManagement"
+    }
+  }
+}
